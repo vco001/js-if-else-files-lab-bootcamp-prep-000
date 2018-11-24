@@ -1,5 +1,3 @@
-nodejs tests nodejs tests.jsvar index = require("./index.js")
-
 if (index.name === "Susan") {
     console.log("The name is correct")
 } else {
